@@ -1,0 +1,32 @@
+body{
+  background-color:	#19a2ae;
+}
+
+a {
+  color: #3e52a3;
+}
+
+.attribution {
+  font-size: 11px; text-align: center;
+}
+
+.background-top {
+  position: absolute;
+  left: -15%;
+  top: -55%;
+}
+
+.background-bottom {
+  position: absolute;
+  left: 50%;
+  top: 55%;
+}
+
+.card {
+  background-color:#FFFFFF;
+  width: 350px;
+  height: 400px;
+  position: absolute;
+  top: 25%;
+  left: 40%;
+}
